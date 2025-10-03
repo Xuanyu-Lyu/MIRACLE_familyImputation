@@ -7,6 +7,8 @@ Code Author: Trent Kyono
 
 This repository contains the code used for the "MIRACLE: Causally-Aware Imputation via Learning Missing Data Mechanisms" paper(2021).
 
+Xuanyu Lyu modified the original MIRACLE model to improve phenotype imputation in large family-based biobanks with pedigree information. 
+
 ## Installation
 
 ```bash
